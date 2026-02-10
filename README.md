@@ -80,7 +80,7 @@
 </head>
 <body>
     <header>
-        <img src="90f52769-5979-4f96-a63a-3e5f91570a15.png" alt="Strabe Logo">
+        <img src="Kopie von Design ohne Titel.png" alt="Strabe Logo">
         <h1>Strabe</h1>
         <p class="slogan">Drauner strategische Beratung für Ihren Vertrieb</p>
         <a href="#services" class="cta-button">Mehr erfahren</a>
