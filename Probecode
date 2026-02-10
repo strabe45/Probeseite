@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Dein Business</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; color: #222; }
+    header { background: #0f172a; color: white; padding: 80px 20px; text-align: center; }
+    section { padding: 60px 20px; max-width: 900px; margin: auto; }
+    h1, h2 { margin-bottom: 20px; }
+    .btn { background: #2563eb; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; }
+    footer { background: #f1f5f9; padding: 30px; text-align: center; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Dein Produkt oder Service</h1>
+  <p>Klare Nutzenbotschaft in einem Satz</p>
+  <a href="#kontakt" class="btn">Jetzt anfragen</a>
+</header>
+
+<section>
+  <h2>Was wir machen</h2>
+  <p>Kurze Beschreibung deines Angebots und warum es Probleme löst.</p>
+</section>
+
+<section>
+  <h2>Warum wir?</h2>
+  <ul>
+    <li>✔ Vorteil 1</li>
+    <li>✔ Vorteil 2</li>
+    <li>✔ Vorteil 3</li>
+  </ul>
+</section>
+
+<section id="kontakt">
+  <h2>Kontakt</h2>
+  <p>E-Mail: kontakt@deinedomain.de</p>
+</section>
+
+<footer>
+  © 2026 Dein Unternehmen · Impressum · Datenschutz
+</footer>
+
+</body>
+</html>
